@@ -1,0 +1,1 @@
+firstProperty stringProperty thirdProperty
